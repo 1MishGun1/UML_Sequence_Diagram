@@ -1,2 +1,2 @@
 # Лабораторная работа №4. Диаграмма последовательностей UML
-Файл: UseCaseDiagram_Kudrov_Mikhail_IV1-21
+Файл: UML sequence diagram_Kudrov Mikhail_IV1-21
